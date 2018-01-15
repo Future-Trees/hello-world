@@ -1,5 +1,5 @@
 # hello-world
-created to supplement the Flatiron Bootcamp Prep Tutorial Intro to Github challenge 
+Created to supplement the Flatiron Bootcamp Prep Tutorial Intro to Github challenge 
 
 On this edit I want to wave hello and not just state it in text based english! 
 Learning coding has sparked my imagination and calmed my nerves by giving a new stressful joy to explore! 
